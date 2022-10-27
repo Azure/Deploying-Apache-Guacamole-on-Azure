@@ -1,6 +1,6 @@
 # Deploying Apache Guacamole on Azure
 
-This repo supports an article on Azure Architecture Center for Apache Guacamole. Here you will find all steps required to deploy a highly available solution for the Apache Guacamole on Azure.
+This repo supports an article on Azure Architecture Center for Apache Guacamole. Here you will find all steps required to deploy a highly available solution for the Apache Guacamole on Azure using Ubuntu Linux 18.04 LTS.
 
 ### Declaring variables
 
